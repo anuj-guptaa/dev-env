@@ -14,4 +14,4 @@ https://learn.microsoft.com/en-us/windows/wsl/install
 ## Set up Azure CLI
 
 
-## 
+## Set up Postman
