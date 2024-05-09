@@ -11,6 +11,9 @@ https://learn.microsoft.com/en-us/windows/wsl/install
 ## Set up Git
 
 
+## Set up Python and venvs
+
+
 ## Set up Azure CLI
 
 
